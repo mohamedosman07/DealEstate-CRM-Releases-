@@ -1,0 +1,7 @@
+{
+  "version": "0.2.15",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/mohamedosman07/DealEstate-CRM-Releases-/releases/latest/download/deal-estate-crm.apk",
+  "notes": "Release channel initialized. The next verified build will be published here.",
+  "mandatory": false
+}
