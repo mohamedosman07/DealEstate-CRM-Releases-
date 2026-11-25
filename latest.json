@@ -1,7 +1,7 @@
 {
-  "version": "0.2.40",
-  "versionCode": 41,
+  "version": "0.2.41",
+  "versionCode": 42,
   "apkUrl": "https://github.com/mohamedosman07/DealEstate-CRM-Releases-/releases/latest/download/deal-estate-crm.apk",
   "notes": "DealEstate CRM Android update",
   "mandatory": false
-}\n
+}
